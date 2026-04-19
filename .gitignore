@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+data/
+logs/
+coverage/
+server.log
+server.err.log
+tmp-*.log
+*-test*.png
+web/dist/
+.harness/
