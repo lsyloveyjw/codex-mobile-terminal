@@ -36,7 +36,7 @@
 ## 快速开始
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/lsyloveyjw/codex-mobile-terminal.git
 cd codex-mobile-terminal
 cp .env.example .env
 ```
